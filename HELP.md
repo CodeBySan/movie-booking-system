@@ -47,9 +47,9 @@ Use the following configuration:
 ```properties
 server.port=8080
 
-spring.datasource.url=jdbc:postgresql://localhost:5432/booking_db
+spring.datasource.url=jdbc:postgresql://localhost:5432/test_db
 spring.datasource.username=postgres
-spring.datasource.password=****
+spring.datasource.password=********
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
